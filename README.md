@@ -1,4 +1,4 @@
-# Cohorte FT50 - Módulo 4 Especialidad Backend
+# Cohorte FT54 - Módulo 4 Especialidad Backend
 
 ## TypeScript
 
