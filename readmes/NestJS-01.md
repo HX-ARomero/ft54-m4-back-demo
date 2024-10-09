@@ -9,6 +9,7 @@
 - [LucidChart - Crear Diagrama Entigad Relación](https://www.lucidchart.com)
 - [Learn Typing - Aprende a tipear](https://www.typingclub.com/)
 - [NotePad Colaborativo](https://pad.riseup.net/p/ft54-back)
+- [Ejemplo de Tablas en Google Sheet](https://docs.google.com/spreadsheets/d/1y75SnUlawaYE0MvD3oBejBBkqcqQAoFn5wgRcvNHMGk/edit?gid=0#gid=0)
 
 ## Niveles de Abstracción: Clases / Módulos / Servicios
 
