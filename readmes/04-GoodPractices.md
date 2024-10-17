@@ -1,5 +1,7 @@
 # BUENAS PRÁCTICAS
 
+[Volver a Inicio](../README.md)
+
 # PARÁMETROS INTELIGENTES
 
 - La siguiente función recibe varios parámetros

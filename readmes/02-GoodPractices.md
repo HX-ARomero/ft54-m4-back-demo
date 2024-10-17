@@ -1,5 +1,7 @@
 # BUENAS PRÁCTICAS
 
+[Volver a Inicio](../README.md)
+
 ## DECLARAR MÚLTIPLES VARIABLES
 
 - Las siguientes formas de declarar variables pueden ser un poco confusas:

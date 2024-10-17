@@ -1,5 +1,7 @@
 # BUENAS PRÁCTICAS
 
+[Volver a Inicio](../README.md)
+
 ## CREACIÓN DE NUEVOS ARREGLOS Y OBJETOS
 
 - No utilizamos sus clases constructoras...

@@ -11,8 +11,15 @@
 
 ## Varios
 
-- [Buenas prácticas](./readmes/GoodPrac-01.md)
 - [Visual Studio Code - Atajos](./readmes/vsc-01.md)
+- [Buenas prácticas - 01](./readmes/01-GoodPractices.md)
+- [Buenas prácticas - 02](./readmes/02-GoodPractices.md)
+- [Buenas prácticas - 03](./readmes/03-GoodPractices.md)
+- [Buenas prácticas - 04](./readmes/04-GoodPractices.md)
+- [Buenas prácticas - 05](./readmes/05-GoodPractices.md)
+- [Buenas prácticas - 06](./readmes/06-GoodPractices.md)
+- [Buenas prácticas - 07](./readmes/07-GoodPractices.md)
+- [Buenas prácticas - 08](./readmes/08-GoodPractices.md)
 - [Trivia-01](./readmes/Trivia-01.md)
 - [Trivia-02](./readmes/Trivia-02.md)
 - [Trivia-03](./readmes/Trivia-03.md)
@@ -20,6 +27,7 @@
 - [Trivia-05](./readmes/Trivia-05.md)
 - [Trivia-06](./readmes/Trivia-06.md)
 - [Trivia-07](./readmes/Trivia-07.md)
+
 
 ## 01 - Backend Architecture
 
