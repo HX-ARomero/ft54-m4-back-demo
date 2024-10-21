@@ -20,6 +20,8 @@
 - [Buenas prácticas - 06](./readmes/06-GoodPractices.md)
 - [Buenas prácticas - 07](./readmes/07-GoodPractices.md)
 - [Buenas prácticas - 08](./readmes/08-GoodPractices.md)
+- [Buenas prácticas - 09](./readmes/09-GoodPractices.md)
+- [Buenas prácticas - 10](./readmes/10-GoodPractices.md)
 - [Trivia-01](./readmes/Trivia-01.md)
 - [Trivia-02](./readmes/Trivia-02.md)
 - [Trivia-03](./readmes/Trivia-03.md)
