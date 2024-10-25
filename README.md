@@ -1,5 +1,7 @@
 # Cohorte FT54 - Módulo 4 Especialidad Backend
 
+## [🎉 REGALOS: FIN DEL MÓDULO 🎉](./readmes/regalos.md)
+
 ## TypeScript
 
 - [TypeScript - Documentación Oficial](https://www.typescriptlang.org/)
